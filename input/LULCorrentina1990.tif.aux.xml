@@ -1,0 +1,13 @@
+<PAMDataset>
+  <PAMRasterBand band="1">
+    <Description>classification_1990</Description>
+    <Metadata>
+      <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
+      <MDI key="STATISTICS_MINIMUM">3</MDI>
+      <MDI key="STATISTICS_MAXIMUM">46</MDI>
+      <MDI key="STATISTICS_MEAN">7.7920016956884</MDI>
+      <MDI key="STATISTICS_STDDEV">8.7569313154486</MDI>
+      <MDI key="STATISTICS_VALID_PERCENT">47.54</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>
