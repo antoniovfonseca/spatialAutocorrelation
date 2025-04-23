@@ -1,12 +1,28 @@
 <PAMDataset>
   <PAMRasterBand band="1">
     <Description>classification_2020</Description>
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>62.5</HistMax>
+        <BucketCount>63</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|0|0|183059|7261213|0|0|0|0|20441|0|226784|685902|0|0|678574|0|0|0|0|0|564101|0|0|11908|22408|0|0|0|0|0|0|0|3322|0|0|0|0|0|1864822|0|1466874|0|0|0|0|1063|0|314|0|0|0|0|0|0|0|0|0|0|0|0|0|233900</HistCounts>
+      </HistItem>
+    </Histograms>
     <Metadata>
       <MDI key="STATISTICS_APPROXIMATE">YES</MDI>
-      <MDI key="STATISTICS_MINIMUM">3</MDI>
+      <MDI key="STATISTICS_COUNT">13224685.000000</MDI>
+      <MDI key="STATISTICS_COVARIANCES">265.5623999044037</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
       <MDI key="STATISTICS_MAXIMUM">62</MDI>
-      <MDI key="STATISTICS_MEAN">15.900848305003</MDI>
-      <MDI key="STATISTICS_STDDEV">16.308485133293</MDI>
+      <MDI key="STATISTICS_MEAN">15.948921051807</MDI>
+      <MDI key="STATISTICS_MEDIAN">4.000000</MDI>
+      <MDI key="STATISTICS_MINIMUM">3</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_STDDEV">16.296085416578</MDI>
       <MDI key="STATISTICS_VALID_PERCENT">47.54</MDI>
     </Metadata>
   </PAMRasterBand>
