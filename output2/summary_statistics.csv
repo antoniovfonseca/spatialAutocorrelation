@@ -1,0 +1,9 @@
+﻿Sum of Count,Column Labels,,,,,,
+Row Labels,HH,HL,LH,LL,NN,NS,Grand Total
+HH,,63,,2,35,41,141
+HL,4,42,1,3,55,5,110
+LH,1,26,,,17,21,65
+LL,2,64,,6,108,4,184
+NN,1,,2,1,1,,5
+NS,35,209,4,4,283,173,708
+Grand Total,43,404,7,16,499,244,1213

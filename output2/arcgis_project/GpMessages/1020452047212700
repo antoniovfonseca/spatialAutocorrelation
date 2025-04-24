@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" encoding="utf-8"?><messages><msg code="0" type="2">Start Time: Thursday, April 24, 2025 10:50:19 AM</msg><msg code="0" type="0">Adding Transition to spatial_join_lisa1990_2020...</msg><msg code="539" type="100">ERROR 000539: ﻿Traceback (most recent call last):
+﻿  File "&lt;expression&gt;", line 1, in &lt;module&gt;
+﻿TypeError: unsupported operand type(s) for &amp;: 'str' and 'str'
+</msg><msg code="-2147467259" type="100">Failed to execute (CalculateField).</msg><msg code="0" type="3">Failed at Thursday, April 24, 2025 10:50:20 AM (Elapsed Time: 0.40 seconds)</msg></messages>

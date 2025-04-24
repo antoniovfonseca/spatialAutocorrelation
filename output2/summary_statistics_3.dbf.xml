@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250424</CreaDate><CreaTime>13351400</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Analysis Tools.tbx\Statistics" Date="20250424" Time="133514">Statistics union_lisa1990_2020 C:\Users\AntFonseca\spatialAutocorrelation\output2\summary_statistics_3.dbf "Area_km2 SUM" Transition #</Process></lineage></DataProperties></Esri></metadata>

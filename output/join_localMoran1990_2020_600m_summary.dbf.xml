@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="en"><Esri><CreaDate>20250423</CreaDate><CreaTime>23474800</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="c:\program files\arcgis\pro\Resources\ArcToolbox\toolboxes\Analysis Tools.tbx\Statistics" Date="20250423" Time="234748">Statistics join_localMoran1990_2020_600m C:\Users\AntFonseca\spatialAutocorrelation\output\join_localMoran1990_2020_600m_summary.dbf "FID COUNT" Transition #</Process></lineage></DataProperties></Esri></metadata>
